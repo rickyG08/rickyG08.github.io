@@ -1,1 +1,7 @@
-# rickyG08.github.io
+# Ricky Garcia
+
+## Introduction
+
+## Current projects
+
+## Links
