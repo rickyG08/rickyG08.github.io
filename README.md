@@ -14,3 +14,6 @@ I'm a quick learner that is very motivated to start a new career, currently atte
 
 * [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-7443471b5/)
 
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+>
+> Every line (blank or not) of a blockquote beings with `>`, followed by a space.
