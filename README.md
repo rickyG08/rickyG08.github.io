@@ -6,4 +6,8 @@ I'm a quick learner that is very motivated to start a new career, currently atte
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
