@@ -12,4 +12,4 @@ I'm a quick learner that is very motivated to start a new career, currently atte
 
 ## Links
 
-* [LinkedIn]({https://www.linkedin.com/in/ricardo-garcia-7443471b5/})
+* [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-7443471b5/)
