@@ -13,3 +13,7 @@ I'm a quick learner that is very motivated to start a new career, currently atte
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-7443471b5/)
+
+* [Hello World: Java console application](https://github.com/rickyG08/deep-dive-hello-world-ij)
+
+* [Hello World: Android app](https://github.com/rickyG08/android-hello-world)
