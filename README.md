@@ -1,12 +1,14 @@
 ## Introduction
 
-I'm a quick learner that is very motivated to start a new career, currently attending the Deep Dive Coding Java + Android Bootcamp. My plan after graduation is to look for employment or contract work in Android app development.
+Hi, my name is Ricky Garcia. I am new to coding and am currently attending the CNM Ingenuity Deep Dive Java + Android Bootcamp. Looking to gain the knowledge and experience needed to start my career as a junior software developer. I am looking to apply my problem solving, critical thinking and team-work skills to find a good job or internship to improve my coding skills.
 
 ## Current projects
 
-* [Hello World: Java console application](https://github.com/rickyG08/deep-dive-hello-world-ij)
+* [Wake the F up!!: Personal Android Capstone project](https://rickyg08.github.io/wake-up/) A productivity app to help improve the user be productive after a night with very little sleep.
 
-* [Hello World: Android app](https://github.com/rickyG08/android-hello-world)
+  * [Repository](https://github.com/rickyG08/wake-up)
+
+* [AlbuQuirky: Team Capstone project](https://github.com/albuquirky)
 
 ## Recently updated repositories
 
