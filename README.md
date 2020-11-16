@@ -4,7 +4,9 @@ Hi, my name is Ricky Garcia. I am new to coding and am currently attending the C
 
 ## Current projects
 
-* [Wake the F up!!: Personal Android Capstone project](https://rickyg08.github.io/wake-up/) A productivity app to help improve the user be productive after a night with very little sleep.
+* [Wake the F up!!: Personal Android Capstone project](https://rickyg08.github.io/wake-up/)
+
+  * A productivity app to help improve the user be productive after a night with very little sleep.
 
   * [Repository](https://github.com/rickyG08/wake-up)
 
